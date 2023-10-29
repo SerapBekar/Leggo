@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781062263346",
+    "project_id": "fprojectsb",
+    "storage_bucket": "fprojectsb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781062263346:android:f2cacef9b7706f2812a22b",
+        "android_client_info": {
+          "package_name": "com.serapbekar.fprojectsb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCobTM2x4wvimmWpcrCXEpEdAHGAoo5nGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

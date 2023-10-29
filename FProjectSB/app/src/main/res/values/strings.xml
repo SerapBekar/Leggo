@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">FProjectSB</string>
+    <string name="success_pay">The payment transaction was completed successfully</string>
+    <string name="splash_fragment">Splash Fragment</string>
+    <string name="signIn_fragment">Sign In fragment</string>
+    <string name="signup_fragment">Sign Up fragment</string>
+    <string name="search_fragment">Search fragment</string>
+    <string name="home_fragment">Home fragment</string>
+    <string name="favorites_fragment">Favorites</string>
+    <string name="cart_fragment">Cart</string>
+    <string name="credit_cart_number">Credit Cart Number</string>
+    <string name="name">Name Surname</string>
+    <string name="payment">Payment</string>
+    <string name="year">Year</string>
+    <string name="Year">Year</string>
+    <string name="month">Month</string>
+    <string name="cvc">CVC</string>
+    <string name="address">Address</string>
+    <string name="pay">Pay</string>
+    <string name="Month">Month</string>
+    <string name="price">Price</string>
+    <string name="rate">Rate</string>
+    <string name="todo">TODO</string>
+    <string name="title">Title</string>
+    <string name="Price">Price</string>
+    <string name="salePrice">SalePrice</string>
+    <string name="search">Search</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="total">Total</string>
+    <string name="your_cart">Your Cart</string>
+    <string name="go_to_home">Go Home</string>
+    <string name="piece">Piece</string>
+    <string name="amount">Amount</string>
+    <string name="cart">Cart</string>
+</resources>

@@ -42,4 +42,5 @@
     <li>RecyclerView</li>
     <li>SearchView</li>
     <li>Chucker</li>
+    <li>Glide</li>
 </ul>
